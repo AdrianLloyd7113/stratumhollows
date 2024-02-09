@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 4a1300e7a1746420ba3d47554d5e89c8
+  - enabled: 1
+    path: Assets/Scenes/OpeningScene.unity
+    guid: 84fe4aa912b304f13aade3973f63af39
+  - enabled: 1
+    path: Assets/Scenes/Dead.unity
+    guid: d1594108efc094b949ccd98174b420ce
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level1.unity
+    guid: 4d53c085309ef4c4391df2644bf9350a
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level2.unity
+    guid: 6c2819fe8f36b46888a423995f4abfed
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level3.unity
+    guid: 4e92a115fb7e64d06a8a3abbd08e0974
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level4.unity
+    guid: ce69af374acd844009dffe5493b97fe4
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level5.unity
+    guid: 17823f42e80164032b12a0377536234f
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level6.unity
+    guid: 340da253bcf734ffdb39c16b69fa2d1b
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level7.unity
+    guid: 70ce41e605ae34a9f9047d9888694155
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level8.unity
+    guid: 9913545c182f54ee79b6cc4ffe8ae5da
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level9.unity
+    guid: daa54da1d067c4cdfa9cef0224623753
+  - enabled: 1
+    path: Assets/Scenes/Prologue Levels/Level10.unity
+    guid: 5649c9c62bd754e3386fe2137f93e3e5
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: ef7304179dbf842c4a27dbcd1b70e7f9
+  - enabled: 1
+    path: Assets/Scenes/MainGameBegins.unity
+    guid: e0d6b17c97168437d82c45ddf88a6bb2
+  - enabled: 1
+    path: Assets/Scenes/Random Levels/ResourceRun.unity
+    guid: 33c4e7d6cfa2b43569c8751f30cc5eeb
+  - enabled: 1
+    path: Assets/Scenes/Random Levels/SupplyRun.unity
+    guid: c632fe67ff6a549c7a10fa50e6187bbc
+  - enabled: 1
+    path: Assets/Scenes/Faction.unity
+    guid: fd4e6f32f02d044f4ac5e28b00e55c98
+  m_configObjects: {}
